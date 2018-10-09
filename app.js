@@ -136,7 +136,5 @@ function winner() {
             president = x;
         }
     })
-    return `${president.name} won with ${president.votes} votes!`
+    return `${president.name} won!`
 }
-
-
