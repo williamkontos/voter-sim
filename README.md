@@ -2,7 +2,7 @@
 
 voter simulation project using JS object oriented principles and jQuery for user interaction  
 
-+ JavaScript/Jquery
++ JavaScript/jQuery
 + HTML
 + CSS
 
