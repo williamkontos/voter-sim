@@ -6,3 +6,5 @@ voter simulation project using JS object oriented principles and jQuery for user
 + HTML
 + CSS
 
+![voter-sim-homepage](https://raw.githubusercontent.com/williamkontos/voter-sim/master/voter-sim.png)
+
